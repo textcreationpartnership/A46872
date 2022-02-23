@@ -1,0 +1,334 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief discourse of the stomach and parts subservient unto it of the generating of blood and humors, their degenerating into diseases, how and by what means they are wrought up in the body. Set forth in a dialogue between a physician and a countrey-man his patie made so plain and easie, that any one may know so much of his own strength and constitution, as to judge of his state of health, and tendency to sickness, and be able to help himself therein, in order to which, is subjoyned an account of that incompatable extractum pareton, or, extract of universal vertue and sufficiency, in the cure of most, but especially chronical diseases, incident to men and women. Prepared by the art and industry of Edward Jewel.</title>
+            <author>Jewel, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46872</idno>
+            <idno type="STC">Wing J732B</idno>
+            <idno type="STC">ESTC R216573</idno>
+            <idno type="EEBO-CITATION">99828299</idno>
+            <idno type="PROQUEST">99828299</idno>
+            <idno type="VID">32726</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32726)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1950:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief discourse of the stomach and parts subservient unto it of the generating of blood and humors, their degenerating into diseases, how and by what means they are wrought up in the body. Set forth in a dialogue between a physician and a countrey-man his patie made so plain and easie, that any one may know so much of his own strength and constitution, as to judge of his state of health, and tendency to sickness, and be able to help himself therein, in order to which, is subjoyned an account of that incompatable extractum pareton, or, extract of universal vertue and sufficiency, in the cure of most, but especially chronical diseases, incident to men and women. Prepared by the art and industry of Edward Jewel.</title>
+                  <author>Jewel, Edward.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stomach --  Early works to 1800.</term>
+               <term>Human anatomy --  Early works to 1800.</term>
+               <term>Physiology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32726:1" rendition="simple:additions"/>
+            <p>Brief Diſcourſe OF THE STOMACH And PARTS Subſervient unto it; OF THE Generating of <hi>Blood</hi> and <hi>Humors,</hi> their degen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rating into <hi>Diſeaſes,</hi> how and by what means they are wrought up in the <hi>Body.</hi>
+            </p>
+            <p>Set forth in a DIALOGUE between a <hi>Phyſician</hi> and a <hi>Countrey-man</hi> his <hi>Patie<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Made ſo Plain and Eaſie, that any one may know ſo much of his own Strength and Conſtitution, as to Judge of his State of Health, and Tendency to Sickneſs, and be able to help Himſelf therein.</p>
+            <p>In Order to which, Is Subjoyned AN ACCOUNT of that Incomparable <hi>EXTRACT<g ref="char:V">Ʋ</g>M PA<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ARETON,</hi> Or, <hi>Extract of <g ref="char:V">Ʋ</g>niverſal Vertue and Sufficiency,</hi> in the Cure of Moſt, but eſpecially <hi>Chronical Diſeaſes,</hi> incident to Men and Women.</p>
+            <p>Prepared by the Art and Induſtry of EDWARD JEWEL<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+               <bibl>Hippocrat. Aph. lib. <hi>2.25.</hi>
+               </bibl>
+            </q>
+            <p>LONDON; Printed in the YEAR 167<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:32726:2" rendition="simple:additions"/>
+            <pb facs="tcp:32726:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:32726:3"/>
+            <head>A Brief DISCO<g ref="char:V">Ʋ</g>RSE of the Sto<g ref="char:EOLhyphen"/>mach, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>Patient.</speaker>
+               <p>
+                  <hi>HAving been often invited to Town by ſome</hi> Buſineſs, <hi>I am now the rather Perſwaded thereto, by an earneſt deſire I have had to diſcourſe with you about your Wri<g ref="char:EOLhyphen"/>tings and Pills, which you have Placed among us in the Countrey, as well as in this City.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phyſitian.</speaker>
+               <p>What hath directed your Curioſity to me alone: ſince from this Town, the Country is abundantly furniſhed with many ſorts of Pills, Powders, Drinks, Spirits, <hi>&amp;c.</hi> Which promiſe you wonders far above what I have given you to expect from my Pills, which notwithſtanding may not be inferiour to any Medicine this day Extant.</p>
+            </sp>
+            <sp>
+               <speaker>Patient.</speaker>
+               <p>
+                  <hi>Sir, It is not from any miſ-apprehenſion I have of your Pills, for I am well ſatisfied of their Vertues, having known many in our Parts, who have taken them with great ſucceſs and ſatisfaction, none complaining of any Violence, Griping or any other ill Effects, which are commonly found in moſt Purging Medicines. But that which hath brought me to you, is a deſire to be better ſatisfied in the Nature and Differences of ſome Diſeaſes which are frequent amongſt us, which though you in your Writings have de<g ref="char:EOLhyphen"/>ſcribed very fully and authentically, yet not without ſome Obſcurity and Termes of Art, which (though they might rather recommend you to the more Learned) to me, and others of my meaner capacity, would be much more ac<g ref="char:EOLhyphen"/>ceptable and profitable, were they made more plain and familiar.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phyſitian.</speaker>
+               <p>I ſhould willingly comply with your deſires herein, but then I perceive that I muſt treat you rather as a <hi>Pupil</hi> then a <hi>Patient,</hi> in that you ſeem to require of me a Hiſtory of Diſeaſes, which would ask larger Diſcourſes, and more time then this opportunity will afford. But in re<g ref="char:EOLhyphen"/>gard that you have applied your ſelf to my advice, before that of others, I ſhall take care that you go not from me unſatisfied in what ſo neerly con<g ref="char:EOLhyphen"/>cerns you. And therefore ſhall lay you down a Method, whereby you or any other Perſon may apprehend and underſtand the Original of Diſeaſes in General, and be able to reduce them practically to every ones particu<g ref="char:EOLhyphen"/>lar Caſe, as occaſion offers. And theſe ſhall be drawn from ſome eaſie no<g ref="char:EOLhyphen"/>tions in Anatomy, by which I ſhall give you a Proſpect (though drawn in little) of the principal parts of the Body, which are deſign'd (by Nature) for the nouriſhment and ſupport thereof, and their ſubſerviency each to other in order thereunto. And then ſhew you how from an accidental de<g ref="char:EOLhyphen"/>ficiency in their Functions, all diſeaſes are cauſed: And afterward inform you of the differencing ſigns of thoſe, in which you are at a loſs.</p>
+            </sp>
+            <sp>
+               <speaker>Patient.</speaker>
+               <p>
+                  <hi>Sir, This will more fully Anſwer my deſires, and moreover ob<g ref="char:EOLhyphen"/>lige me and many others, who wanting means to apply themſelves to a</hi> Phy<g ref="char:EOLhyphen"/>ſician
+<pb n="2" facs="tcp:32726:3"/>
+                  <hi>know not how to beware the approaches of ſickneſs, nor how to behave themſelves in it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phyſitian.</speaker>
+               <p>You are to conſider, that the ſubſtance of our Bodies ſuf<g ref="char:EOLhyphen"/>fering a daily decay and waſting, as well by our own innate, or <hi>inbred</hi> heat, perſpiration of the purer parts of the Humours through the pores of the Skin, the impreſſions of the Ambient Air, as by the common Evacuations of Nature, ſo there is required a daily ſupply of Nouriſhment, to repair and make good, whatſoever is ſpent of that ſtore, which is provided to ſupport and preſerve it in its perfection. To this end our All-wiſe Creator hath prepared and fitted the Members and Organs of the Body, in their ſeveral places and offices, to be aſſiſtant to each other in order to the effecting this admirable work. The <hi>Stomach</hi> is the firſt principal Agent of theſe, which as it were a Kitchen, ſerves to dreſs &amp; prepare all Meats and Drinks, though of different ſubſtance) which are brought into it, and by its concocting faculty, reduceth them into a white Milky ſubſtance which is called <hi>Chyle.</hi> Which paſſing through the lower<note n="*" place="margin">Py<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oru<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> Orifice of the Stomach into the Intrail (where having but a ſlow paſſage by reaſon of the many turnings and windings by which they are united to the Meſentery, and receiving there another kind of concoction) it is again altered, and the purer part thereof by the Mi<g ref="char:EOLhyphen"/>ſeraick Veins (call'd, <hi>The Hands of the Liver</hi>) through the Vein (call'd <hi>vena porta</hi> from that Office) carried into the hollow part of the Liver, where, by a higher and more Eleborate Concoction it is turned into that admirable Balſamick liquor call'd <hi>Blood.</hi> Which from thence paſſeth into the hollow Vein, whoſe trunck divides it ſelf into two great Branches, the one tend<g ref="char:EOLhyphen"/>ing downwards to carry Blood to the lower parts,<note place="margin">Vena Ca<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> the other upwards, and mounteth even to the Throat, dividing again by the way into other Branches, one of which aſteneth it ſelf to the right ventricle of the heart, by which the Blood is brought thither from the Liver, where being yet higher Ela<g ref="char:EOLhyphen"/>borate and Enriched, it is tranſmitted or conveyed over to the left vintricle, where the <hi>Arteries</hi> take their Original, which contain the Vital Blood and Spirits, which do enliven, and exerciſe the faculties of the Body, by other Branches it ariſeth into the Brain where the Animal Spirits are made, which alſo is the Seat of the Reaſon, Memory, Judgment and Phanſie, as alſo of all ſenſe and motion, here theſe faculties of the ſoul by the ſaid Spirit are exerciſed; in the Brain alſo are all the Nerves, or Sinews implanted and derived into all the parts, which cauſe a voluntary motion of the Body, by which it walks, ſtands up, lies down, or cauſeth any other exerciſe ac<g ref="char:EOLhyphen"/>cording to the dictate of the will; which could not be done without the Nerves.</p>
+               <p>Having now ſhewed you how the meat is turned into Chyle, the Chyle is turned into Blood, how that it is from the Liver as from a Fountain, ſent through the Veins, like Channels or Pipes to the principal parts, and from thence by infinite ſmaller Veins into every part of the Body, and by their
+<pb n="3" facs="tcp:32726:4"/>ſeveral faculties aſſimilated or made like to their own form, as into Fleſh; Nerves, Bones, Membrans, <hi>&amp;c.</hi> In order to the making up and preſerv<g ref="char:EOLhyphen"/>ing the whole Frame of the Body; it remains now, that I ſhew you what uſe I deſign to make of this diſcourſe to your profit. And that is, to make it appear to you that as the Actions of the Body are deſign'd and con<g ref="char:EOLhyphen"/>trived by Nature, for the ſupport of the whole Fabrick thereof, ſo from theſe Actions being hurt or hindred, is the Original of all Diſeaſes. And therefore a diſeaſe is defin'd by <hi>Galen</hi> to be,<note n="*" place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 5. l. 1. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Turn.</note> 
+                  <hi>An Affect contrary to Na<g ref="char:EOLhyphen"/>ture, by which the Action of the Body be hurt.</hi>
+               </p>
+               <p>The Actions are hurt when the parts are diſabled to perform their ſe<g ref="char:EOLhyphen"/>veral Offices and Functions, as when the ſtomach cannot concoct the Food, when the Liver can no longer turn the Chyle into blood, nor the parts attract and aſſimilate it. Now this hurt is done for the moſt part by what is taken into the body, that is, our Meat and Drink<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; which if ei<g ref="char:EOLhyphen"/>ther it be unwholeſom, or taken in too great quantity, it both ways offend; the body, for unwholeſom Meats and Drinks give an unwholeſom nou<g ref="char:EOLhyphen"/>riſhment all ſorts thereof giving nouriſhment conſentaneous to their qua<g ref="char:EOLhyphen"/>lities; if the error be in quantity the conſequence is ſtill worſe, for Ex<g ref="char:EOLhyphen"/>ceſs in eating and drinking lays the foundation of all diſeaſes;<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 1. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> de morb.</note> for neither the Air, Seaſon of the year, troubles of Mind, nor immoderate exerciſe or the like Cauſes can have their effects upon us, to beget diſeaſes, unleſs the body be prediſpoſed by ill humors. Now this prediſpoſition and preparation of ill humors, is only the reſult of Indigeſtion, and cauſed from the Faculty of the Stomach abuſed and perverted. For when the Stomach is overcharged, it cannot rightly concoct and turn the food into Chyle, nor being able to contain it long, thruſteth it crude a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it is into the Entralls, which alſo being oppreſſed, cannot ſo ſpeedily convey through them the indigeſted load, but it receiveth there an imperfect al<g ref="char:EOLhyphen"/>teration, and ſo is by the craving veins of the Meſentery, drawn a way and carried into the Liver, which alſo being indiſpoſed by receiving this crude and unprepared matter, is unable to convert the unequal Maſs in<g ref="char:EOLhyphen"/>to good blood, but throws it into the larger veins mixed and infected with evil humors and from thence to the Heart the Seat of Life, which (like a Lamp almoſt drown'd with Oyl) is even ſtifled and overcom; thus alſo it is carried to the Brain, the Fountain of Senſe and Motion; which b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing clouded with vapours, and filled with ſuperfluous humors, its faculties are interrupted. From the larger, Veſſels it is through infinite ſmall ones carried all over the body, every part taking its ſhare, which by reaſon of its want of d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e concoction in the principal parts, is much leſs prepared to give nouriſhment to the parts remote, by theſe means often repeated, the body is made a Magazine or Storehouſe of corrupt humors, with which the moſt deſtructive and deadly diſeaſes are apt and ready upon all occa<g ref="char:EOLhyphen"/>ſions to invade the body; If any thing herein ſeem difficult to your un<g ref="char:EOLhyphen"/>derſtanding, I will explain it by an Example, to wit, of the <hi>Scurvey,</hi> a
+<pb n="4" facs="tcp:32726:4"/>diſeaſe which is the general Complaint of the Nation; it is a malignant and infectious habit of the parts ordain'd for nouriſhment, impreſſed up<g ref="char:EOLhyphen"/>on them by the frequent impulſe of vitious humors, which being ferment<g ref="char:EOLhyphen"/>ed and diffuſed all over the body, deprave the faculties and functions of the parts. This is cauſed for the moſt part by groſs, ſeaſon'd, ſalted or dried Meats, or others, of heavy and hard digeſtion, and theſe generally taken to exceſs, as alſo diſagreeable or unwholeſom drinks, an errour chargeable upon moſt perſons, (<hi>I ſpeak not here of Gluttony and Drunkenneſs,</hi>
+                  <note place="margin">Natura pa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> con<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> 
+                  <hi>but</hi>) that only which exceeds the Requeſt of Nature, which is content with a little, but too often betrayed and debauched by Appetite) I ſay, theſe Meats and Drinks ſo liberally taken, and not well concocted by the Sto<g ref="char:EOLhyphen"/>mach paſs into the Entralls, with many raw and excrementitious hu<g ref="char:EOLhyphen"/>mors, which from thence are carried into the Liver and Spleen; and by that gradual proceeding before men<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ioned into all the ſeveral parts of the Body; and this work being not duely performed, they are filled and oppreſſed with thick groſs humors unapt for Nouriſhment, which being put upon fermentation, (which is a working up like Beer in a Barrel,) they are thereby made thin, and contract a fumous, piercing ſharpneſs, which ſeparates, and throws it ſelf all over the Body, the thinner part faſtning upon the Gums, cauſeth them to ſwell, makes them looſe, change colour, ſubject to bleed, and by degrees putrifie, give an ill ſavour to the Mouth and breath, and at laſt waſte and conſume. Other parts of the humour ſeize the Membranes, Nerves and Tendons, which makes the Body ſluggiſh liſtleſs, heavy, ſtiff and univerſally indiſpoſed; further, they diffuſe themſelves upon the habit or outſide of the body, from whence ariſe red, purple or blewiſh ſpots upon the skin, which change colour, fade and vaniſh, but the diſeaſe continuing others ſucceed them. Theſe are the true ſignes of the <hi>Scurvey;</hi> it hath many other Symptoms, but they are common with other diſeaſes, and very often this joyns it ſelf to other diſeaſes, which were it not for the aforeſaid Sign; were not to be diſtinguiſhed from it; Such are <hi>Giddineſs, Dulneſs and Pain in the Head, unquiet ſleeps and ſtarting, ſtreight and difficult breathing, Melan<g ref="char:EOLhyphen"/>choly, Sighing, Pain in the Stomach, Windineſs, Belching, want of Appetite, weak and ſlow digeſtion, Pain in the Back and Sides, with heavineſs, and ſtretching out, eſpecially of the left ſide;</hi> ſometimes <hi>Coſtiveneſs,</hi> other-whiles <hi>ſudden Looſneſs of the belly, the <g ref="char:V">Ʋ</g>rine is thick and groſs, ſharp Pains and Aches in the Limbs, and often in the Joints, and may not unaptly be call'd</hi> A Scorbutick Gout, <hi>when the morbous Ferment is heightned, the Blood more tainted, and humours putrified, the Symptoms are exaſperated, and the diſ<g ref="char:EOLhyphen"/>eaſe exerciſeth greater cruelties upon the body, and throws its malignity into all parts thereof, ſo that it ſwells all over, becomes pale and wan, weak and the fleſh looſe, and often turns to a Dropſey; the Pains are more ſharp, and with the ſpots ariſe Puſtules and virulent <g ref="char:V">Ʋ</g>lcers, which corrode the Fleſh even to the bones; In a word, as the Diſeaſe grows ſtronger, and the humors
+<pb n="5" facs="tcp:32726:5"/>more corrupt, ſo the Symptomes are proportionably aggravated, and happy is that Perſon, who is ſo prudent to put a timely ſtop to the growth of this Fatal Diſeaſe.</hi>
+               </p>
+               <p>Thus alſo is the <hi>Dropſy</hi> cauſed, by the hurt and depravation of the Acti<g ref="char:EOLhyphen"/>ons and Faculties of the <hi>Liver, Spleen,</hi> and <hi>Meſentery.</hi> For the <hi>Liver</hi> ſending out a thin watery Blood, cauſeth all the Fleſh to ſwell, as if it were par-boiled, and this is call'd the <hi>Dropſy Anaſarca:</hi> Then by default in the <hi>Stomach, Liver</hi> and <hi>Spleen,</hi> there is a continual gathering of Serous, or a watery Matter in the Belly, which ſwells up to a vaſt Bulk; and this is the <hi>Dropſy</hi> Aſcites, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom the like cauſe the <hi>Tympany.</hi>
+               </p>
+               <p>From the ſame alſo are cauſed a <hi>Cachexie.</hi>
+                  <note place="margin">Di<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> or ill habit of Body, and this moſtly affl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts women: who are deprived of their Monthly Sickneſs, in Vir<g ref="char:EOLhyphen"/>gins it is call'd the <hi>Green ſickneſs,</hi> wherein the Legsſwell, the <hi>Spleen</hi> is ob<g ref="char:EOLhyphen"/>ſtructed, windineſs and crudities abound, and the complexion decayes, and a multitude of evil Symptoms afflict that Sex.</p>
+               <p>Hence alſo proceeds the <hi>Gout, Rhewmatiſmes, Sciatica,</hi> all afflictions of the Joynts, and indeed there is no diſeaſe that afflicts humane Bodies, but may be aſcribed to the default and violation of the faculties of the princi<g ref="char:EOLhyphen"/>pal Parts appointed for Nouriſhment:<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> And though I ſhould diſcourſe to you all the Cauſes, Signs and Symptoms of every particular diſeaſe, (which would but toil your Memory) it would at laſt reſolve into thoſe Principles.</p>
+            </sp>
+            <sp>
+               <speaker>Patient.</speaker>
+               <p>
+                  <hi>Sir, you have given me great ſatisfaction, and prevented me in a Query, I was about to make concerning the difference of the</hi> Scurvey <hi>from other diſeaſes, which it ſo much reſembles in ſome of its Symptoms; but being reſolved of that, I deſire you to reſolve me alſo how the Venerial diſeaſe is bred and propagated in the body.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phyſician.</speaker>
+               <p>The POX is a diſeaſe, which indeed comes not immediately from the cauſes before treated of, but from an Infection taken by unclean Copulation, upon which the venomous Contagion ſwiftly penetrates, and enters both the ſolid and fluid parts of the Body, ſeizing the Fleſh, Nerves, Membranes, Ligaments and Tendons, and even the Bones and Marrow, giving its poiſonous taint to the Noble Parts before-mentioned, vitiates all their faculties, and by that means are the blood and humors infected, and the whole body miſerably diſeaſed, and according to their prediſpo<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion it makes various appearances, as <hi>Running in the Reins, Sharpneſſe of <g ref="char:V">Ʋ</g>rine, Carnoſuies, Nodes on the Scull, Armes and Shin-bones, ſharp Pains in the Limbs, which invade the ſick ſtill at night in bed, and hinder his reſt; Alſo Gums or hard knots in the fleſh; Likewiſe Shankers, and Warts in the Privities; Fiery Puſtules, and ſanious malignant <g ref="char:V">Ʋ</g>lcers hard to be Cured, and ſpread Scabs and Itch upon the Skin, eating <g ref="char:V">Ʋ</g>lcers in the Mouth and Throat, which eat through the Palate and Noſe;</hi> Theſe and many other ſymptomes attend this loathſom diſeaſe; but all theſe are not at once in all bodies, but are more or leſs, according to the difference of conſtituti<g ref="char:EOLhyphen"/>ons
+<pb n="6" facs="tcp:32726:5"/>and preparation of humors, ſo that you ſee that this diſeaſe comes not im<g ref="char:EOLhyphen"/>mediately from theſe cauſes, but after Infection is by them propagated and carried on to theſe extreams.</p>
+            </sp>
+            <sp>
+               <speaker>Patient.</speaker>
+               <p>
+                  <hi>Sir, there is one thing yet remains, and I ſhall give you no further trouble at this time, and that is how to apply my ſelf to a Remedy in theſe Caſes, when occaſion offers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phyſician.</speaker>
+               <p>As I have given you general Grounds and Rules for the right underſtanding and tracing theſe Affects and Effects, to their Cauſes and Ori<g ref="char:EOLhyphen"/>ginal; ſo I have taken care to provide a general Antidote and ſufficient Medi<g ref="char:EOLhyphen"/>cine, which is judiciouſly contrived, and exquiſitely prepared, as well to pre<g ref="char:EOLhyphen"/>vent the growth of diſeaſes, as to Cure and perfectly expel them, when the Bo<g ref="char:EOLhyphen"/>dy labours under any of them; if you or any one takes the like care to take it in time, whilſt the diſeaſe is yet Curable; and that is, this Noble and moſt powerful Extract, Call'd, <hi>PANARETON, from that univerſal Vertue,</hi> and Efficacy it hath in the Cure of diſeaſes; for firſt of all, it cleanſeth the Sto<g ref="char:EOLhyphen"/>mach, and takes away thoſe tough, clammy humors which cleave unto it, and hinder its faculty of concoction; it reſtores the enfeebled Appetite, and migh<g ref="char:EOLhyphen"/>tily ſtrengthens digeſtion; Paſſing thence into the Entrails, it draws out from the veins all ſuperabundant corrupt matter, which is apt to intermix it ſelf with the nouriſhment; it ſtrengthens the Liver, and opens the obſtructions of it and the Spleen, and ſets them free from all viſcous, thick humors, which may any way hinder the proper and juſt diſtribution of nouriſhment to all the parts, and carries them all off by ſtools, and plentiful Urine, and performs this with ſo much eaſe and pleaſure to the Patient, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t whereas ſome ſtrong violent Me<g ref="char:EOLhyphen"/>dicines ſubdue the Powers and vigour of the body, by forcing away more hu<g ref="char:EOLhyphen"/>mour then is prepared; this on the contrary, only attends the ſpontaneous endeavors of Nature, and is (as all Phyſick ought to be) its Friend and Hand<g ref="char:EOLhyphen"/>maid, ſtrengthens and promotes its expu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſive faculty, refreſheth and enlivens the whole body, and renders it univerſally able and ready, in the right and due performance of all its functions. Beſides, it hath a peculiar property in the Cure of the <hi>Scurvey</hi> and <hi>Dropſey,</hi> expelling all thoſe acid, ſour, ſalt humors, which do ſo ſharply aſſault and oppreſs the ſenſible parts, and draws from the remoter parts ſuch as ſtick faſt to the Muſcles, Membrans, and Nerves, and takes away all dulneſs, ſtiffneſs and indiſpoſition, and other ſymptoms which proceed from thence; it carries away by Urine and ſtools, that ſerous watery matter which cauſeth the <hi>Dropſey,</hi> ſtrengthning the Liver and other parts, ſo as to prevent its return for the future, which is equally neceſſary: Moreover, it contains in it the true Antidote for the Venerial Diſeaſe, expels its venom and infectious quality, draws it away from all the remoteſt parts of the body, and perfectly diſcharges it. In a word, this one Medicine (if timely uſed) anſwers all the Requeſts and Exigencies of oppreſſed Nature, and diſpoſeth the Body to a laſting ſtate of Health.</p>
+               <p>
+                  <hi>This</hi> Extract <hi>for the better convenience of the Patient is made up into</hi> Pills, <hi>of which you or any one may take four, five or ſix, more or leſs, according to the
+<pb n="7" facs="tcp:32726:6"/>ſtrength of the Patient; Take them at night going to bed, and they will be<g ref="char:EOLhyphen"/>gin to work the next Morring; but they who are eaſie to be wrong <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and may be ſurpriſed in the Night, may take them after their firſt ſleep, and ſleep after them, but when they begin to work: 'Tis more profitable to forbear ſleep<g ref="char:EOLhyphen"/>ing, but rather wiſe and walk, for then Motion conduceth more to their be<g ref="char:EOLhyphen"/>neficial Operation; if they work five or ſix times a day it is enough, and the Patient may proportion their Doſe accordingly; they are ſafely uſed at any time of the year, if need require, and their Vertues are Equal at all times, the Compoſition being ſo exact, that they keep entire for many years; They are alſo taken with great Profit by Sea-faring People, who by eating ſalted Meats are ſubject to the</hi> Scurvey; <hi>And alſo thoſe who live near the Sea, and in</hi> A<g ref="char:EOLhyphen"/>guiſh <hi>Places, for they are a great Preſervative againſt both</hi> Ague <hi>and</hi> Scur<g ref="char:EOLhyphen"/>vey, <hi>and will Cure both: In</hi> Agues <hi>they are to be taken an hour before the Fit, and in three or four times they ſeldom fail.</hi>
+               </p>
+               <p>☜ <hi>Furthermore, take this Obſervation to your great benefit; That if you take two or three days, every Fortnight, before the Full and Change of the Moon, they Preſerve the Body free from Cuſtomary Diſeaſes; for the Moon hath a great Domination or Rule over moiſt Bodies, and then the Humors are ſtirring, and moſt ſubject to take the Impreſſion of Diſeaſes, eſpecially thoſe of the Head, the Brain being the moſt moiſt part, is ſubject to very ma<g ref="char:EOLhyphen"/>ny Diſtempers, and to the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>laence of the Moon particularly; And there<g ref="char:EOLhyphen"/>fore theſe</hi> Pills <hi>are a great Treaſure for any Family or Perſon, being a preſent Refuge to ſuch as are ſuddenly taken with any Illneſs:</hi> They are put up in Tin Boxes two dozen in every Box, which is to be ſold for 2 ſh. 6 d. Seal'd with the Creſt of my Coat at Arms, being an <hi>Eagles Head Er<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Patient.</speaker>
+               <p>
+                  <hi>Sir, I thank you for this trouble you have taken, and the ſatis<g ref="char:EOLhyphen"/>ſaction you have given me in every particular, and I ſhall take Care to obſerve your Rules and Directions; And as there are many, who, beſides my ſelf, have reaſon to pray for you, ſo I doubt not that many thouſands will have the like cauſe to do the ſame.</hi>
+               </p>
+            </sp>
+            <div type="list_of_distributors">
+               <head>Theſe (known by the Name of <hi>Jewell</hi>'s Pills) are Sold by</head>
+               <p>
+                  <list>
+                     <item>Mr. <hi>Parker</hi> bookſeller at the <hi>Leg</hi> and <hi>Star</hi> againſt the <hi>Royal Exchange.</hi>
+                     </item>
+                     <item>Mr. <hi>Guy</hi> bookſeller near the <hi>Stocks</hi> Market, <hi>Cornhill.</hi>
+                     </item>
+                     <item>Mr. <hi>Northcott</hi> bookſeller, next St. <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> Alley in <hi>Cornhil,</hi> and at his ſhop at the <hi>Anchor</hi> and <hi>Marriner</hi> on <hi>New Fiſh</hi>-ſtreet hill, near <hi>London</hi>-bridge.</item>
+                     <item>Mr. <hi>Willson</hi> Watch maker in <hi>Thread, needle</hi>-ſtreet, by the <hi>Exchange.</hi>
+                     </item>
+                     <item>Mr. <hi>Lacey</hi> Stationer at the <hi>Golden Lion</hi> in <hi>Southwark.</hi>
+                     </item>
+                     <item>Mr. <hi>Deives</hi> a Cheeſemonger in <hi>Biſhops</hi> gate-ſtreet near great St. <hi>Hellens.</hi>
+                     </item>
+                     <item>Mr. <hi>John Mill<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r</hi> bookſeller at the <hi>Roſe,</hi> at the Weſt-end of St. <hi>Pauls.</hi>
+                     </item>
+                     <item>Mr. <hi>Heldar</hi> bookſeller at the <hi>An<g ref="char:EOLhyphen"/>gel</hi> in <hi>Little-Britain.</hi>
+                     </item>
+                     <item>Mr. <hi>Dring</hi> bookſeller, at the cor<g ref="char:EOLhyphen"/>ner of <hi>Chancery</hi>-lane in <hi>Fleet</hi>-ſtreet</item>
+                     <item>Mr. <hi>Battersby</hi> bookſeller, at <hi>Thavie</hi>'s Inn-gate in <hi>Holbourn.</hi>
+                     </item>
+                     <item>Mr. <hi>Harriſon</hi> at <hi>Lincolns</hi>-Inn gate in <hi>Chancery</hi>-lane.</item>
+                     <item>Mr. <hi>Heyrick</hi> bookſeller, at <hi>Grey</hi>'s Inn-gate in <hi>Holbourn.</hi>
+                     </item>
+                     <item>Mr. <hi>Samuel Lowndes</hi> over againſt <hi>Exceter</hi> Change, bookſeller.</item>
+                     <item>Mr. <hi>Neſt</hi> at <hi>Weſtminster</hi>-Hall door his Coffee-houſe.</item>
+                     <item>And at mine own Abode at the <hi>Golden Ball</hi> in <hi>Long Acre</hi> near St. <hi>Martins</hi> lane.</item>
+                  </list>
+               </p>
+               <pb facs="tcp:32726:6"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
